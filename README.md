@@ -1,2 +1,2 @@
 # Blockchain
-Ethereum and Solana Blockahin ecosystem based projects 
+Ethereum and Solana Blockchain ecosystem based projects 
