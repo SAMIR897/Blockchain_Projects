@@ -55,4 +55,72 @@
       </a>
       <p align="center">A secure, transparent, and tamper-proof election voting mechanism engineered entirely on Solana smart contracts.</p>
       <br />
-      <a href="
+      <a href="https://github.com/SAMIR897/Decentralized_Lottery_DApp">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Decentralized_Lottery_DApp&mode=light&style=vertical" alt="[📂 PROJECT: Lottery DApp]" width="90%"/>
+        <br />
+        <b>Decentralized Lottery DApp</b>
+      </a>
+      <p align="center">A fast-finality, low-fee Web3 lottery protocol utilizing on-chain randomness for verifiable fairness and rapid payouts.</p>
+      <br />
+      <a href="https://github.com/SAMIR897/Blockchain-Based_Certificate_Issuer">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Blockchain-Based_Certificate_Issuer&mode=dark&style=vertical" alt="[📂 PROJECT: Certificate Issuer]" width="90%"/>
+        <br />
+        <b>Blockchain Certificate Issuer</b>
+      </a>
+      <p align="center">A scalable credentialing system designed to issue and verify tamper-proof institutional certificates using compressed NFTs.</p>
+      <br />
+      <br />
+      <br />
+      <p align="center">
+        <i>New Solana Programs Compiling...</i><br />
+        ⏳ [██████░░░░] 60%
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h2 align="center">🔷 Ethereum & Enterprise</h2>
+      <p align="center"><i>EVM smart contracts & Hyperledger</i></p>
+      <hr />
+      <br />
+      <a href="https://github.com/SAMIR897/NFT-Marketplace-Eth-">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/NFT-Marketplace-Eth-&mode=dark&style=vertical" alt="[📂 PROJECT: Ethereum NFT Marketplace]" width="90%"/>
+        <br />
+        <b>Ethereum NFT Marketplace</b>
+      </a>
+      <p align="center">A robust decentralized platform for trading ERC-721 and ERC-1155 standard tokens on the Ethereum blockchain.</p>
+      <br />
+      <a href="https://github.com/SAMIR897/Blockchain-Bank-DApp">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Blockchain-Bank-DApp&mode=light&style=vertical" alt="[📂 PROJECT: Blockchain Bank DApp]" width="90%"/>
+        <br />
+        <b>Blockchain Bank DApp</b>
+      </a>
+      <p align="center">A decentralized financial application (DeFi) for secure digital asset storage, transfers, and banking services.</p>
+      <br />
+      <a href="https://github.com/SAMIR897/Blockchain_Smart_Contract_Based_School_Management_System">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Blockchain_Smart_Contract_Based_School_Management_System&mode=dark&style=vertical" alt="[📂 PROJECT: School Management System]" width="90%"/>
+        <br />
+        <b>Smart School Management</b>
+      </a>
+      <p align="center">An administrative backend powered by smart contracts to ensure immutable academic records and fee tracking.</p>
+      <br />
+      <a href="https://github.com/SAMIR897/Hyperledger_fabric_based_Ticket_booking_system">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Hyperledger_fabric_based_Ticket_booking_system&mode=light&style=vertical" alt="[📂 PROJECT: Hyperledger Ticketing]" width="90%"/>
+        <br />
+        <b>Hyperledger Ticket Booking</b>
+      </a>
+      <p align="center">An enterprise-grade, permissioned blockchain system designed specifically for secure and verifiable ticketing.</p>
+      <br />
+      <a href="https://github.com/SAMIR897/Decentralized_Real_Estate_DApp">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Decentralized_Real_Estate_DApp&mode=dark&style=vertical" alt="[📂 PROJECT: Real Estate DApp]" width="90%"/>
+        <br />
+        <b>Web3 Real Estate & Land Registry</b>
+      </a>
+      <p align="center">A PropTech DApp on Polygon for tokenized land acquisition, verifiable property discovery, and smart contract lease agreements.</p>
+      <br />
+    </td>
+  </tr>
+</table>
+
+---
+
+<sub>Built with Solidity, Rust & Hyperledger · [github.com/SAMIR897](https://github.com/SAMIR897)</sub>
+</div>
