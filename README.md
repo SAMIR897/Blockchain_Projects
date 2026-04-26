@@ -13,7 +13,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/SAMIR897/Casino_DAAp-Crosschain_version-">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Casino_DAAp-Crosschain_version-&mode=dark&style=vertical" alt="[📂 PROJECT: Crosschain Casino]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Casino_DAAp-Crosschain_version-&mode=dark&style=vertical" alt="[📂 PROJECT: Crosschain Casino]" width="65%"/>
         <br />
         <b>Crosschain Casino DApp</b>
       </a>
@@ -21,7 +21,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/SAMIR897/Casino_DAAp-unified_version-">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Casino_DAAp-unified_version-&mode=light&style=vertical" alt="[📂 PROJECT: Unified Casino]" width="90%"/>
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Casino_DAAp-unified_version-&mode=light&style=vertical" alt="[📂 PROJECT: Unified Casino]" width="65%"/>
         <br />
         <b>Unified Casino DApp</b>
       </a>
@@ -31,7 +31,6 @@
 </table>
 
 <br />
-<hr />
 <br />
 
 <table border="0" width="100%">
@@ -121,6 +120,3 @@
 </table>
 
 ---
-
-<sub>Built with Solidity, Rust & Hyperledger · [github.com/SAMIR897](https://github.com/SAMIR897)</sub>
-</div>
