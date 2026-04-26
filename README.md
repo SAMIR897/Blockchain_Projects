@@ -90,3 +90,24 @@
       <p align="center">A decentralized financial application (DeFi) for secure digital asset storage, transfers, and banking services.</p>
       <br />
       <a href="https://github.com/SAMIR897/Blockchain_Smart_Contract_Based_School_Management_System">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Blockchain_Smart_Contract_Based_School_Management_System&mode=dark&style=vertical" alt="[📂 PROJECT: School Management System]" width="90%"/>
+        <br />
+        <b>Smart School Management</b>
+      </a>
+      <p align="center">An administrative backend powered by smart contracts to ensure immutable academic records and fee tracking.</p>
+      <br />
+      <a href="https://github.com/SAMIR897/Hyperledger_fabric_based_Ticket_booking_system">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Hyperledger_fabric_based_Ticket_booking_system&mode=light&style=vertical" alt="[📂 PROJECT: Hyperledger Ticketing]" width="90%"/>
+        <br />
+        <b>Hyperledger Ticket Booking</b>
+      </a>
+      <p align="center">An enterprise-grade, permissioned blockchain system designed specifically for secure and verifiable ticketing.</p>
+      <br />
+    </td>
+  </tr>
+</table>
+
+---
+
+<sub>Built with Solidity, Rust & Hyperledger · [github.com/SAMIR897](https://github.com/SAMIR897)</sub>
+</div>
