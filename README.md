@@ -9,9 +9,9 @@
 <p align="center"><i>Advanced multi-network protocols and unified ecosystems</i></p>
 <br />
 
-<table border="0" width="100%">
+<table border="0" width="100%" rules="none" frame="void" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/SAMIR897/Casino_DAAp-Crosschain_version-">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Casino_DAAp-Crosschain_version-&mode=dark&style=vertical" alt="[📂 PROJECT: Crosschain Casino]" width="65%"/>
         <br />
@@ -19,7 +19,7 @@
       </a>
       <p align="center">A decentralized casino protocol enabling seamless interactions and liquidity across multiple blockchain networks.</p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/SAMIR897/Casino_DAAp-unified_version-">
         <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/Casino_DAAp-unified_version-&mode=light&style=vertical" alt="[📂 PROJECT: Unified Casino]" width="65%"/>
         <br />
@@ -120,3 +120,6 @@
 </table>
 
 ---
+
+<sub>Built with Solidity, Rust & Hyperledger · [github.com/SAMIR897](https://github.com/SAMIR897)</sub>
+</div>
