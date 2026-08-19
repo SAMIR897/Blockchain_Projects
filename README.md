@@ -40,8 +40,8 @@
       <p align="center"><i>High-speed, low-cost native programs</i></p>
       <hr />
       <br />
-      <a href="https://github.com/SAMIR897/NFT_Marketplace-Solana-">
-        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/NFT_Marketplace-Solana-&mode=light&style=vertical" alt="[📂 PROJECT: Solana NFT Marketplace]" width="90%"/>
+      <a href="https://github.com/SAMIR897/Assignment-2-NFT-Marketplace">
+        <img src="https://svg.bookmark.style/api?url=https://github.com/SAMIR897/_Marketplace-Solana-&mode=light&style=vertical" alt="[📂 PROJECT: Solana NFT Marketplace]" width="90%"/>
         <br />
         <b>Solana NFT Marketplace</b>
       </a>
